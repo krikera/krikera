@@ -125,8 +125,8 @@ I'm a passionate **Computer Science Undergraduate** and a dedicated tech enthusi
 ---
 
 > <!--QUOTE_START-->
-> "Your inspirational quote here"
-> <!--QUOTE_END-->
+"Deleted code is debugged code. – Jeff Sickel"
+<!--QUOTE_END-->
 
 ---
 
