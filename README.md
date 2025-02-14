@@ -77,12 +77,12 @@ I'm a passionate **Computer Science Undergraduate** and a dedicated tech enthusi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krikera&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krikera&theme=dark&hide_border=false" width="48%" alt="Streak Stats" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krikera&theme=dark&hide_border=false" width="48%" alt="Streak Stats" /> -->
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krikera&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" alt="Top Languages" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=krikera&theme=react-dark&hide_border=true" width="48%" alt="Activity Graph" />
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=krikera&theme=react-dark&hide_border=true" width="48%" alt="Activity Graph" /> -->
 </div>
 
 <!-- Optional: WakaTime Stats (if you use WakaTime)
