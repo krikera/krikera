@@ -67,9 +67,6 @@ I'm a passionate **Computer Science Undergraduate** and a dedicated tech enthusi
 
 ---
 
-## 📌 Pinned Repositories
-
-[![Krishna's Pinned Repositories](https://github-readme-pinned-repos.vercel.app/?username=krikera&theme=dark)](https://github.com/krikera)
 
 ---
 
