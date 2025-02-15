@@ -122,7 +122,7 @@ I'm a passionate **Computer Science Undergraduate** and a dedicated tech enthusi
 ---
 
 > <!--QUOTE_START-->
-"Deleted code is debugged code. – Jeff Sickel"
+"Simplicity is the soul of efficiency. – Austin Freeman"
 <!--QUOTE_END-->
 
 ---
