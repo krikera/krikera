@@ -122,7 +122,7 @@ I'm a passionate **Computer Science Undergraduate** and a dedicated tech enthusi
 ---
 
 > <!--QUOTE_START-->
-"Optimism is an occupational hazard of programming: feedback is the treatment. – Kent Beck"
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates"
 <!--QUOTE_END-->
 
 ---
