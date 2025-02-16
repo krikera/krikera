@@ -122,7 +122,7 @@ I'm a passionate **Computer Science Undergraduate** and a dedicated tech enthusi
 ---
 
 > <!--QUOTE_START-->
-"Deleted code is debugged code. – Jeff Sickel"
+"Optimism is an occupational hazard of programming: feedback is the treatment. – Kent Beck"
 <!--QUOTE_END-->
 
 ---
