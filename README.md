@@ -122,7 +122,7 @@ I'm a passionate **Computer Science Undergraduate** and a dedicated tech enthusi
 ---
 
 > <!--QUOTE_START-->
-"Before software can be reusable it first has to be usable. – Ralph Johnson"
+"Experience is the name everyone gives to their mistakes. – Oscar Wilde"
 <!--QUOTE_END-->
 
 ---
