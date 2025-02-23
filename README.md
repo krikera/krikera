@@ -122,7 +122,7 @@ I'm a passionate **Computer Science Undergraduate** and a dedicated tech enthusi
 ---
 
 > <!--QUOTE_START-->
-"A good programmer is someone who looks both ways before crossing a one-way street. – Doug Linder"
+"Experience is the name everyone gives to their mistakes. – Oscar Wilde"
 <!--QUOTE_END-->
 
 ---
