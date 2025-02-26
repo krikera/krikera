@@ -32,9 +32,9 @@ jobs:
         run: |
           git config --global user.name "krikera"  
           git config --global user.email "prafulrai522@gmail.com"
-
+          
+          git add -A
           if [ -n "$(git status --porcelain)" ]; then
-            git add README.md
             git commit -m "🤖 Update daily inspirational quote"
             git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
             git push origin HEAD:main
