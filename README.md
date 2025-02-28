@@ -122,7 +122,7 @@ I'm a passionate **Computer Science Undergraduate** and a dedicated tech enthusi
 ---
 
 > <!--QUOTE_START-->
-"Talk is cheap. Show me the code. – Linus Torvalds"
+"Deleted code is debugged code. – Jeff Sickel"
 <!--QUOTE_END-->
 
 ---
