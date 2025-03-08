@@ -1,18 +1,17 @@
-#  👋 Hello Neos
-I'm Krishna and I make sure there are no dark corners where magic and confusion can hide, so I try to learn everything that is needed for it.
+## 👋 Hello Neos, Welcome.
+I'm Krishna – a code explorer and lifelong learner. I hunt down those shadowy corners of confusion and light them up with fresh ideas and clean code. Let's create some magic together!
 
 ---
 
 **⌨️ Current Projects:**
 
-* **Python Shell** ([https://github.com/krikera/python-shell-exp/](https://github.com/krikera/python-shell-exp/)): A lightweight command-line shell emulator written in Python.
-* **FinViz-Dashboard** ([https://github.com/krikera/FinViz-Dashboard/](https://github.com/krikera/FinViz-Dashboard/)): A Streamlit-based web application for personal finance analytics.
-* Other public and private projects available on my GitHub profile.
+* [**Python Shell**](https://github.com/krikera/python-shell-exp/) : A lightweight command-line shell emulator written in Python.
+* [**FinViz-Dashboard**](https://github.com/krikera/FinViz-Dashboard/) : A Streamlit-based web application for personal finance analytics.
 ---
 
-## 🛠 Tech Stack
+**🛠 Tech Stack:**
 
-### **Languages**
+##### **Languages**
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,35 +20,35 @@ I'm Krishna and I make sure there are no dark corners where magic and confusion 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-### **Frontend Development**
+##### **Frontend Development**
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-### **Backend Development**
+##### **Backend Development**
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### **Databases**
+##### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### **Cloud & DevOps**
+##### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### **Tools & Utilities**
+##### **Tools & Utilities**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
 
-### **Data Science & Analytics**
+##### **Data Science & Analytics**
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -59,7 +58,7 @@ I'm Krishna and I make sure there are no dark corners where magic and confusion 
 
 
 
-## 📱 Want to ping? 
+**📱 Want to ping?** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnaketanrai)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prafulrai522@gmail.com)
@@ -72,4 +71,4 @@ I'm Krishna and I make sure there are no dark corners where magic and confusion 
 
 ---
 
-⭐ **Thank you for visiting my profile! Let's connect and create something amazing together.**
+
