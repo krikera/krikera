@@ -66,7 +66,7 @@ I'm Krishna – a code explorer and lifelong learner. I hunt down those shadowy 
 
 
 > <!--QUOTE_START-->
-"Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson"
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates"
 <!--QUOTE_END-->
 
 ---
