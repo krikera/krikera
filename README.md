@@ -1,24 +1,13 @@
-#  👋 Hi there, I'm Krishna!
-
-I'm a passionate **Computer Science Undergraduate** and a dedicated tech enthusiast with a knack for solving problems and building innovative projects. I love exploring new technologies, contributing to open-source, and collaborating with developers worldwide.
-
----
-
-## 💡 About Me
-
-- 🔭 **Current Focus:** Building scalable web applications using **React** & **Node.js**, and diving deeper into **Data Science** with **Python**.
-- 🌱 **Learning:** Exploring **Machine Learning** and **Cloud Technologies**.
-- 👯 **Collaboration:** Always open to exciting projects and meaningful collaborations.
-- 📝 **Tech Blog:** I write about tech, programming, and my learning journey. Check out my [blog](https://krikera.hashnode.dev/) for insights and tutorials.
-- 🎯 **Goals:** To continuously improve my skills and contribute to impactful open-source projects.
+#  👋 Hello Neos
+I'm Krishna and I make sure there are no dark corners where magic and confusion can hide, so I try to learn everything that is needed for it.
 
 ---
 
-## 🚀 What I'm Working On
+**⌨️ Current Projects:**
 
-- **[SEO - Info](https://github.com/krikera/seo-info):** An SEO Analyzer for Single Page Applications (SPAs).
-- **[Open Source Contributions](https://github.com/krikera?tab=contributions):** Actively contributing to community-driven projects.
-
+* **Python Shell** ([https://github.com/krikera/python-shell-exp/](https://github.com/krikera/python-shell-exp/)): A lightweight command-line shell emulator written in Python.
+* **FinViz-Dashboard** ([https://github.com/krikera/FinViz-Dashboard/](https://github.com/krikera/FinViz-Dashboard/)): A Streamlit-based web application for personal finance analytics.
+* Other public and private projects available on my GitHub profile.
 ---
 
 ## 🛠 Tech Stack
@@ -68,58 +57,14 @@ I'm a passionate **Computer Science Undergraduate** and a dedicated tech enthusi
 ---
 
 
----
 
-## 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krikera&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" alt="GitHub Stats" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krikera&theme=dark&hide_border=false" width="48%" alt="Streak Stats" /> -->
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krikera&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" alt="Top Languages" />
-<!--   <img src="https://activity-graph.herokuapp.com/graph?username=krikera&theme=react-dark&hide_border=true" width="48%" alt="Activity Graph" /> -->
-</div>
-
-<!-- Optional: WakaTime Stats (if you use WakaTime)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=krikera&theme=dark" alt="WakaTime Stats" />
-</div>
--->
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=krikera&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- Replace the links with your latest posts or embed a widget -->
-- [**A Developer's Guide to Path Management in VS Code for React and Python**](https://krikera.hashnode.dev/a-developers-guide-to-path-management-in-vs-code-for-react-and-python) - Simple strategies to master path management in VS Code.
-- [**Why Did Git Change the 'Master' Branch to 'Main'?**](https://krikera.hashnode.dev/understanding-gits-switch-from-master-to-main-and-its-impact-on-developers) - Understanding Git's Switch from 'Master' to 'Main' and Its Impact on Developers.
-- [**The Developer's Guide to .env Files: Securing Your Web App**](https://krikera.hashnode.dev/the-developers-guide-to-env-files-securing-your-web-app) - How to secure you files.
-
----
-
-## 🤝 Connect with Me
+## 📱 Want to ping? 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnaketanrai)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prafulrai522@gmail.com)
 
----
 
-## 🎯 My Goals & Aspirations
-
-- **Enhance Expertise:** Deepen my knowledge in **Cloud Computing** and **DevOps**.
-- **Open Source:** Contribute to and maintain high-impact open-source projects.
-- **Community:** Engage with tech communities and mentor aspiring developers.
-- **Innovation:** Continuously experiment with emerging technologies and drive innovative solutions.
-
----
 
 > <!--QUOTE_START-->
 "Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson"
