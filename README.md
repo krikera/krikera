@@ -1,11 +1,13 @@
 ## 👋 Hello Neos, Welcome.
-I'm Krishna – a code explorer and lifelong learner. I hunt down those shadowy corners of confusion and light them up with fresh ideas and clean code. Let's create some magic together!
+I love hunting down shadowy corners of confusion and lighting them up with clean code and fresh ideas.
+
+Other times I write   [**Blogs**](https://krikera.hashnode.dev/)
 
 ---
 
 **⌨️ Current Projects:**
 
-* [**Python Shell**](https://github.com/krikera/python-shell-exp/) : A lightweight command-line shell emulator written in Python.
+* [**Python Shell**](https://github.com/krikera/python-shell-exp/) : A minimalist Python-based shell emulator with custom command execution and scripting support.
 * [**FinViz-Dashboard**](https://github.com/krikera/FinViz-Dashboard/) : A Streamlit-based web application for personal finance analytics.
 ---
 
