@@ -66,7 +66,7 @@ I'm Krishna – a code explorer and lifelong learner. I hunt down those shadowy 
 
 
 > <!--QUOTE_START-->
-"Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates"
+"Optimism is an occupational hazard of programming: feedback is the treatment. – Kent Beck"
 <!--QUOTE_END-->
 
 ---
