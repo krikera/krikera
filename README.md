@@ -68,7 +68,7 @@ Other times I write   [**Blogs**](https://krikera.hashnode.dev/)
 
 
 > <!--QUOTE_START-->
-"Optimism is an occupational hazard of programming: feedback is the treatment. – Kent Beck"
+"The function of good software is to make the complex appear to be simple. – Grady Booch"
 <!--QUOTE_END-->
 
 ---
