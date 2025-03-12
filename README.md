@@ -1,4 +1,5 @@
-## 👋 Hello Neos, Welcome.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Neos%2C+Welcome+)](https://git.io/typing-svg)
+
 I love hunting down shadowy corners of confusion and lighting them up with clean code and fresh ideas.
 
 Other times I write   [**Blogs**](https://krikera.hashnode.dev/)
