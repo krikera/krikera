@@ -69,7 +69,7 @@ Other times I write   [**Blogs**](https://krikera.hashnode.dev/)
 
 
 > <!--QUOTE_START-->
-"A language that doesn’t affect the way you think about programming is not worth knowing. – Alan Perlis"
+"Deleted code is debugged code. – Jeff Sickel"
 <!--QUOTE_END-->
 
 ---
