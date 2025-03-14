@@ -69,7 +69,7 @@ Other times I write   [**Blogs**](https://krikera.hashnode.dev/)
 
 
 > <!--QUOTE_START-->
-"Deleted code is debugged code. – Jeff Sickel"
+"Talk is cheap. Show me the code. – Linus Torvalds"
 <!--QUOTE_END-->
 
 ---
