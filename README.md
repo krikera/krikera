@@ -69,7 +69,7 @@ Other times I write   [**Blogs**](https://krikera.hashnode.dev/)
 
 
 > <!--QUOTE_START-->
-"Before software can be reusable it first has to be usable. – Ralph Johnson"
+"Walking on water and developing software from a specification are easy if both are frozen. – Edward V. Berard"
 <!--QUOTE_END-->
 
 ---
