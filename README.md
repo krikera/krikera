@@ -69,7 +69,7 @@ Other times I write   [**Blogs**](https://krikera.hashnode.dev/)
 
 
 > <!--QUOTE_START-->
-"Programming is the art of algorithm design and the craft of debugging errant code. – Ellen Ullman"
+"One man’s crappy software is another man’s full-time job. – Jessica Gaston"
 <!--QUOTE_END-->
 
 ---
