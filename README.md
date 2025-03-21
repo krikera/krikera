@@ -69,7 +69,7 @@ Other times I write   [**Blogs**](https://krikera.hashnode.dev/)
 
 
 > <!--QUOTE_START-->
-"One man’s crappy software is another man’s full-time job. – Jessica Gaston"
+"Optimism is an occupational hazard of programming: feedback is the treatment. – Kent Beck"
 <!--QUOTE_END-->
 
 ---
