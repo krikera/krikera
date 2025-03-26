@@ -69,7 +69,7 @@ Other times I write   [**Blogs**](https://krikera.hashnode.dev/)
 
 
 > <!--QUOTE_START-->
-"Deleted code is debugged code. – Jeff Sickel"
+"The function of good software is to make the complex appear to be simple. – Grady Booch"
 <!--QUOTE_END-->
 
 ---
