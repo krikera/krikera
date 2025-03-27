@@ -69,7 +69,7 @@ Other times I write   [**Blogs**](https://krikera.hashnode.dev/)
 
 
 > <!--QUOTE_START-->
-"The function of good software is to make the complex appear to be simple. – Grady Booch"
+"There are two ways to write error-free programs; only the third one works. – Alan J. Perlis"
 <!--QUOTE_END-->
 
 ---
