@@ -69,7 +69,7 @@ Other times I write   [**Blogs**](https://krikera.hashnode.dev/)
 
 
 > <!--QUOTE_START-->
-"Code is like a love letter: it’s better when it’s elegant. – Unknown"
+"The computer was born to solve problems that did not exist before. – Bill Gates"
 <!--QUOTE_END-->
 
 ---
