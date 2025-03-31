@@ -22,6 +22,8 @@
   <a href="https://github.com/krikera">
     <img alt="Snake animation" src="https://github.com/krikera/krikera/blob/output/dist/github-contribution-grid-snake-dark.svg"/>
   </a>
+  <!-- Fallback in case the above doesn't work -->
+  <!-- <img alt="Snake animation" src="https://github.com/krikera/krikera/blob/output/dist/github-contribution-grid-snake.svg"/> -->
 </div>
 
 <img align="right" width="38%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzM5bndzNjFnNDMxbGdid2E0ejIzejZkaWZ3ZjRpZWlseTJ0cWc5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -303,14 +305,14 @@ Other        █▓░░░░░░░░░░░░░░░   3.80% ⬇️
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling&fontAlignY=35&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFFFFF&customColorList=24" width="100%" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/krikera/krikera/actions/workflows/snake.yml">
     <img src="https://img.shields.io/github/actions/workflow/status/krikera/krikera/snake.yml?color=9370DB&label=Snake%20Animation&logo=github&style=for-the-badge" alt="Snake Animation Status" />
   </a>
   <a href="https://github.com/krikera/krikera/actions/workflows/profile-3d.yml">
     <img src="https://img.shields.io/github/actions/workflow/status/krikera/krikera/profile-3d.yml?color=9370DB&label=3D%20Contrib&logo=github&style=for-the-badge" alt="3D Contrib Status" />
   </a>
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://komarev.com/ghpvc/?username=krikera">
