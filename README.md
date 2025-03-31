@@ -18,12 +18,6 @@
     challenge: 'Crafting code that even future me will understand'
   };
   ```
-  
-  <a href="https://github.com/krikera">
-    <img alt="Snake animation" src="https://github.com/krikera/krikera/blob/output/dist/github-contribution-grid-snake-dark.svg"/>
-  </a>
-  <!-- Fallback in case the above doesn't work -->
-  <!-- <img alt="Snake animation" src="https://github.com/krikera/krikera/blob/output/dist/github-contribution-grid-snake.svg"/> -->
 </div>
 
 <img align="right" width="38%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzM5bndzNjFnNDMxbGdid2E0ejIzejZkaWZ3ZjRpZWlseTJ0cWc5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
