@@ -69,7 +69,7 @@ Other times I write   [**Blogs**](https://krikera.hashnode.dev/)
 
 
 > <!--QUOTE_START-->
-"Before software can be reusable it first has to be usable. – Ralph Johnson"
+"Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson"
 <!--QUOTE_END-->
 
 ---
