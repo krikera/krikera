@@ -279,9 +279,7 @@ Other        █▓░░░░░░░░░░░░░░░   3.80% ⬇️
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=krikera&style=for-the-badge&color=6A5ACD" alt="Profile Views" />
-  <br/><br/>
-  
+  <br/>
   <a href="https://www.buymeacoffee.com/krikera" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=6A5ACD" alt="Buy Me A Coffee" />
   </a>
@@ -299,14 +297,7 @@ Other        █▓░░░░░░░░░░░░░░░   3.80% ⬇️
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling&fontAlignY=35&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFFFFF&customColorList=24" width="100%" />
 </div>
 
-<!-- <div align="center">
-  <a href="https://github.com/krikera/krikera/actions/workflows/snake.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/krikera/krikera/snake.yml?color=9370DB&label=Snake%20Animation&logo=github&style=for-the-badge" alt="Snake Animation Status" />
-  </a>
-  <a href="https://github.com/krikera/krikera/actions/workflows/profile-3d.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/krikera/krikera/profile-3d.yml?color=9370DB&label=3D%20Contrib&logo=github&style=for-the-badge" alt="3D Contrib Status" />
-  </a>
-</div> -->
+
 
 <div align="center">
   <a href="https://komarev.com/ghpvc/?username=krikera">
