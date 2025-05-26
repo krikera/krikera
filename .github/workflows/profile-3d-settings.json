@@ -1,9 +1,0 @@
-{
-  "type": "rainbow",
-  "backgroundColor": "#000000",
-  "foregroundColor": "#FFFFFF",
-  "strongColor": "#FF0000",
-  "weakColor": "#00FF00",
-  "radarColor": "#0000FF",
-  "growingAnimation": true
-}
