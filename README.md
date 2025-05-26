@@ -81,5 +81,7 @@ Production backend managing 10,000+ daily records. Integrated ML-powered recomme
 - [Email](mailto:krishnaketanrai@gmail.com)
 
 ---
+<!--QUOTE_START-->
+"The best code is code that future you can understand at 2 AM."
+<!--QUOTE_END-->
 
-> *"The best code is code that future you can understand at 2 AM."*
