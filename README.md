@@ -82,6 +82,6 @@ Production backend managing 10,000+ daily records. Integrated ML-powered recomme
 
 ---
 <!--QUOTE_START-->
-"The best code is code that future you can understand at 2 AM."
+"There are two ways to write error-free programs; only the third one works. – Alan J. Perlis"
 <!--QUOTE_END-->
 
