@@ -82,6 +82,6 @@ Production backend managing 10,000+ daily records. Integrated ML-powered recomme
 
 ---
 <!--QUOTE_START-->
-"Programming isn’t about what you know; it’s about what you can figure out. – Chris Pine"
+"Programming can be fun, and so can cryptography; however, they should not be combined. – Kreitzberg & Shneiderman"
 <!--QUOTE_END-->
 
