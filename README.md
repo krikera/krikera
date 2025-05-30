@@ -82,6 +82,6 @@ Production backend managing 10,000+ daily records. Integrated ML-powered recomme
 
 ---
 <!--QUOTE_START-->
-"Programming can be fun, and so can cryptography; however, they should not be combined. – Kreitzberg & Shneiderman"
+"Talk is cheap. Show me the code. – Linus Torvalds"
 <!--QUOTE_END-->
 
