@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Optimism is an occupational hazard of programming: feedback is the treatment. – Kent Beck"
+"Talk is cheap. Show me the code. – Linus Torvalds"
 <!--QUOTE_END-->
 
