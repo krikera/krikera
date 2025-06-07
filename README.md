@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"A language that doesn’t affect the way you think about programming is not worth knowing. – Alan Perlis"
+"Fix the cause, not the symptom. – Steve Maguire"
 <!--QUOTE_END-->
 
