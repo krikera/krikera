@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Fix the cause, not the symptom. – Steve Maguire"
+"Deleted code is debugged code. – Jeff Sickel"
 <!--QUOTE_END-->
 
