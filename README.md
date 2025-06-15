@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"The computer was born to solve problems that did not exist before. – Bill Gates"
+"A language that doesn’t affect the way you think about programming is not worth knowing. – Alan Perlis"
 <!--QUOTE_END-->
 
