@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Programming isn’t about what you know; it’s about what you can figure out. – Chris Pine"
+"A language that doesn’t affect the way you think about programming is not worth knowing. – Alan Perlis"
 <!--QUOTE_END-->
 
