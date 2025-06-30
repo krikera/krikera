@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Programming can be fun, and so can cryptography; however, they should not be combined. – Kreitzberg & Shneiderman"
+"A good programmer is someone who looks both ways before crossing a one-way street. – Doug Linder"
 <!--QUOTE_END-->
 
