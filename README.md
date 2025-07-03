@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler"
+"Debugging becomes significantly easier if you first admit that you are the problem. – William Laeder"
 <!--QUOTE_END-->
 
