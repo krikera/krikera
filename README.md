@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"The best way to predict the future is to invent it. – Alan Kay"
+"Experience is the name everyone gives to their mistakes. – Oscar Wilde"
 <!--QUOTE_END-->
 
