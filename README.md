@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Experience is the name everyone gives to their mistakes. – Oscar Wilde"
+"A language that doesn’t affect the way you think about programming is not worth knowing. – Alan Perlis"
 <!--QUOTE_END-->
 
