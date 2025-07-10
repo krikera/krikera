@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Talk is cheap. Show me the code. – Linus Torvalds"
+"A language that doesn’t affect the way you think about programming is not worth knowing. – Alan Perlis"
 <!--QUOTE_END-->
 
