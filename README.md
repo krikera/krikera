@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Optimism is an occupational hazard of programming: feedback is the treatment. – Kent Beck"
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler"
 <!--QUOTE_END-->
 
