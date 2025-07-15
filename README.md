@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Programming isn’t about what you know; it’s about what you can figure out. – Chris Pine"
+"One man’s crappy software is another man’s full-time job. – Jessica Gaston"
 <!--QUOTE_END-->
 
