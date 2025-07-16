@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"One man’s crappy software is another man’s full-time job. – Jessica Gaston"
+"In order to be irreplaceable, one must always be different. – Coco Chanel"
 <!--QUOTE_END-->
 
