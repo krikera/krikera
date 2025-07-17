@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"In order to be irreplaceable, one must always be different. – Coco Chanel"
+"Deleted code is debugged code. – Jeff Sickel"
 <!--QUOTE_END-->
 
