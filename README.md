@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"There are two ways to write error-free programs; only the third one works. – Alan J. Perlis"
+"A good programmer is someone who looks both ways before crossing a one-way street. – Doug Linder"
 <!--QUOTE_END-->
 
