@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"There are two ways to write error-free programs; only the third one works. – Alan J. Perlis"
+"Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson"
 <!--QUOTE_END-->
 
