@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson"
+"You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity. – John Romero"
 <!--QUOTE_END-->
 
