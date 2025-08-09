@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity. – John Romero"
+"Programming can be fun, and so can cryptography; however, they should not be combined. – Kreitzberg & Shneiderman"
 <!--QUOTE_END-->
 
