@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates"
+"There are two ways to write error-free programs; only the third one works. – Alan J. Perlis"
 <!--QUOTE_END-->
 
