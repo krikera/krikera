@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"A language that doesn’t affect the way you think about programming is not worth knowing. – Alan Perlis"
+"The function of good software is to make the complex appear to be simple. – Grady Booch"
 <!--QUOTE_END-->
 
