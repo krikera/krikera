@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"The function of good software is to make the complex appear to be simple. – Grady Booch"
+"Deleted code is debugged code. – Jeff Sickel"
 <!--QUOTE_END-->
 
