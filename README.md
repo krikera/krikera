@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Code is like a love letter: it’s better when it’s elegant. – Unknown"
+"Optimism is an occupational hazard of programming: feedback is the treatment. – Kent Beck"
 <!--QUOTE_END-->
 
