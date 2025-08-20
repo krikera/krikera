@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Optimism is an occupational hazard of programming: feedback is the treatment. – Kent Beck"
+"Fix the cause, not the symptom. – Steve Maguire"
 <!--QUOTE_END-->
 
