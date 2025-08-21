@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Fix the cause, not the symptom. – Steve Maguire"
+"Before software can be reusable it first has to be usable. – Ralph Johnson"
 <!--QUOTE_END-->
 
