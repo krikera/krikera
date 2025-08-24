@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Experience is the name everyone gives to their mistakes. – Oscar Wilde"
+"Deleted code is debugged code. – Jeff Sickel"
 <!--QUOTE_END-->
 
