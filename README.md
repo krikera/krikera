@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"The computer was born to solve problems that did not exist before. – Bill Gates"
+"Talk is cheap. Show me the code. – Linus Torvalds"
 <!--QUOTE_END-->
 
