@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Programming can be fun, and so can cryptography; however, they should not be combined. – Kreitzberg & Shneiderman"
+"One man’s crappy software is another man’s full-time job. – Jessica Gaston"
 <!--QUOTE_END-->
 
