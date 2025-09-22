@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson"
+"Programming can be fun, and so can cryptography; however, they should not be combined. – Kreitzberg & Shneiderman"
 <!--QUOTE_END-->
 
