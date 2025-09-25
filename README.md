@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"A language that doesn’t affect the way you think about programming is not worth knowing. – Alan Perlis"
+"Before software can be reusable it first has to be usable. – Ralph Johnson"
 <!--QUOTE_END-->
 
