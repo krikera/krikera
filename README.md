@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Deleted code is debugged code. – Jeff Sickel"
+"Optimism is an occupational hazard of programming: feedback is the treatment. – Kent Beck"
 <!--QUOTE_END-->
 
