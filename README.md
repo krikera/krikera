@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Fix the cause, not the symptom. – Steve Maguire"
+"Experience is the name everyone gives to their mistakes. – Oscar Wilde"
 <!--QUOTE_END-->
 
