@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Optimism is an occupational hazard of programming: feedback is the treatment. – Kent Beck"
+"A language that doesn’t affect the way you think about programming is not worth knowing. – Alan Perlis"
 <!--QUOTE_END-->
 
