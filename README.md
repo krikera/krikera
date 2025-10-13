@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Simplicity is the ultimate sophistication. – Leonardo da Vinci"
+"One man’s crappy software is another man’s full-time job. – Jessica Gaston"
 <!--QUOTE_END-->
 
