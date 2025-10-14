@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"One man’s crappy software is another man’s full-time job. – Jessica Gaston"
+"Simplicity is the soul of efficiency. – Austin Freeman"
 <!--QUOTE_END-->
 
