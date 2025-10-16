@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson"
+"Walking on water and developing software from a specification are easy if both are frozen. – Edward V. Berard"
 <!--QUOTE_END-->
 
