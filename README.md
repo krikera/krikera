@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler"
+"Make it work, make it right, make it fast. – Kent Beck"
 <!--QUOTE_END-->
 
