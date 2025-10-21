@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Talk is cheap. Show me the code. – Linus Torvalds"
+"Deleted code is debugged code. – Jeff Sickel"
 <!--QUOTE_END-->
 
