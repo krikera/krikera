@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"First, solve the problem. Then, write the code. – John Johnson"
+"One man’s crappy software is another man’s full-time job. – Jessica Gaston"
 <!--QUOTE_END-->
 
