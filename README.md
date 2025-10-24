@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"One man’s crappy software is another man’s full-time job. – Jessica Gaston"
+"Make it work, make it right, make it fast. – Kent Beck"
 <!--QUOTE_END-->
 
