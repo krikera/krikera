@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Make it work, make it right, make it fast. – Kent Beck"
+"Talk is cheap. Show me the code. – Linus Torvalds"
 <!--QUOTE_END-->
 
