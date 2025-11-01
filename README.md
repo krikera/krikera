@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"In order to be irreplaceable, one must always be different. – Coco Chanel"
+"Walking on water and developing software from a specification are easy if both are frozen. – Edward V. Berard"
 <!--QUOTE_END-->
 
