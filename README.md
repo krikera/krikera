@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Experience is the name everyone gives to their mistakes. – Oscar Wilde"
+"Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson"
 <!--QUOTE_END-->
 
