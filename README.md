@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Walking on water and developing software from a specification are easy if both are frozen. – Edward V. Berard"
+"Make it work, make it right, make it fast. – Kent Beck"
 <!--QUOTE_END-->
 
