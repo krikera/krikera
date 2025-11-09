@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Make it work, make it right, make it fast. – Kent Beck"
+"Fix the cause, not the symptom. – Steve Maguire"
 <!--QUOTE_END-->
 
