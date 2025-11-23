@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Before software can be reusable it first has to be usable. – Ralph Johnson"
+"There are two ways to write error-free programs; only the third one works. – Alan J. Perlis"
 <!--QUOTE_END-->
 
