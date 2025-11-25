@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Fix the cause, not the symptom. – Steve Maguire"
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates"
 <!--QUOTE_END-->
 
