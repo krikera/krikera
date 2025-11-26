@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates"
+"The computer was born to solve problems that did not exist before. – Bill Gates"
 <!--QUOTE_END-->
 
