@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Simplicity is the soul of efficiency. – Austin Freeman"
+"Talk is cheap. Show me the code. – Linus Torvalds"
 <!--QUOTE_END-->
 
