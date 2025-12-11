@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Walking on water and developing software from a specification are easy if both are frozen. – Edward V. Berard"
+"Code is like a love letter: it’s better when it’s elegant. – Unknown"
 <!--QUOTE_END-->
 
