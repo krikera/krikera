@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Code is like a love letter: it’s better when it’s elegant. – Unknown"
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates"
 <!--QUOTE_END-->
 
