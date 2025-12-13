@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates"
+"Before software can be reusable it first has to be usable. – Ralph Johnson"
 <!--QUOTE_END-->
 
