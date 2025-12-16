@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Code is like a love letter: it’s better when it’s elegant. – Unknown"
+"Fix the cause, not the symptom. – Steve Maguire"
 <!--QUOTE_END-->
 
