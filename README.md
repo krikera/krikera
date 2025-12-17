@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Fix the cause, not the symptom. – Steve Maguire"
+"There are two ways to write error-free programs; only the third one works. – Alan J. Perlis"
 <!--QUOTE_END-->
 
