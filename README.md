@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"The function of good software is to make the complex appear to be simple. – Grady Booch"
+"A good programmer is someone who looks both ways before crossing a one-way street. – Doug Linder"
 <!--QUOTE_END-->
 
