@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"A good programmer is someone who looks both ways before crossing a one-way street. – Doug Linder"
+"The best way to predict the future is to invent it. – Alan Kay"
 <!--QUOTE_END-->
 
