@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"The best way to predict the future is to invent it. – Alan Kay"
+"There are two ways to write error-free programs; only the third one works. – Alan J. Perlis"
 <!--QUOTE_END-->
 
