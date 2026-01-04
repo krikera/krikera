@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Talk is cheap. Show me the code. – Linus Torvalds"
+"Walking on water and developing software from a specification are easy if both are frozen. – Edward V. Berard"
 <!--QUOTE_END-->
 
