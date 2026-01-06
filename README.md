@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler"
+"A language that doesn’t affect the way you think about programming is not worth knowing. – Alan Perlis"
 <!--QUOTE_END-->
 
