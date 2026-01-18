@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Simplicity is the ultimate sophistication. – Leonardo da Vinci"
+"Programming is the art of algorithm design and the craft of debugging errant code. – Ellen Ullman"
 <!--QUOTE_END-->
 
