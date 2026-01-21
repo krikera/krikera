@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Talk is cheap. Show me the code. – Linus Torvalds"
+"The function of good software is to make the complex appear to be simple. – Grady Booch"
 <!--QUOTE_END-->
 
