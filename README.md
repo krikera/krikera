@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"The best way to predict the future is to invent it. – Alan Kay"
+"A language that doesn’t affect the way you think about programming is not worth knowing. – Alan Perlis"
 <!--QUOTE_END-->
 
