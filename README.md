@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Programming can be fun, and so can cryptography; however, they should not be combined. – Kreitzberg & Shneiderman"
+"First, solve the problem. Then, write the code. – John Johnson"
 <!--QUOTE_END-->
 
