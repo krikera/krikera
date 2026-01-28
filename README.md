@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"First, solve the problem. Then, write the code. – John Johnson"
+"Deleted code is debugged code. – Jeff Sickel"
 <!--QUOTE_END-->
 
