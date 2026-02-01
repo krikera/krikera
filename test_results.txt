@@ -1,0 +1,72 @@
+================================================================================
+Quote Iteration Test
+================================================================================
+Total quotes in list: 1023
+Unique quotes: 54
+Duplicate count: 969
+
+Running 10000 iterations of random.choice()...
+
+Unique quotes selected: 54 out of 54
+
+✓ SUCCESS: All unique quotes were selected at least once!
+
+--------------------------------------------------------------------------------
+Selection frequency analysis:
+--------------------------------------------------------------------------------
+
+Top 10 most frequently selected quotes:
+  1. Selected 1373 times (appears 149x in list)
+     Deleted code is debugged code. – Jeff Sickel...
+  2. Selected 857 times (appears 92x in list)
+     Programs must be written for people to read, and only incidentally for...
+  3. Selected 717 times (appears 70x in list)
+     There are two ways to write error-free programs; only the third one wo...
+  4. Selected 622 times (appears 65x in list)
+     Talk is cheap. Show me the code. – Linus Torvalds...
+  5. Selected 602 times (appears 58x in list)
+     A language that doesn’t affect the way you think about programming is ...
+  6. Selected 416 times (appears 41x in list)
+     The function of good software is to make the complex appear to be simp...
+  7. Selected 400 times (appears 44x in list)
+     Simplicity is the ultimate sophistication. – Leonardo da Vinci...
+  8. Selected 374 times (appears 37x in list)
+     Code is like humor. When you have to explain it, it’s bad. – Cory Hous...
+  9. Selected 364 times (appears 37x in list)
+     Measuring programming progress by lines of code is like measuring airc...
+  10. Selected 362 times (appears 39x in list)
+     Any fool can write code that a computer can understand. Good programme...
+
+Top 10 least frequently selected quotes:
+  1. Selected 9 times (appears 1x in list)
+     The cheapest, fastest, and most reliable components are those that are...
+  2. Selected 9 times (appears 1x in list)
+     In order to be irreplaceable, one must always be different. – Coco Cha...
+  3. Selected 8 times (appears 1x in list)
+     Documentation is a love letter that you write to your future self. – D...
+  4. Selected 8 times (appears 1x in list)
+     Programming today is a race between software engineers striving to bui...
+  5. Selected 7 times (appears 1x in list)
+     Good code is its own best documentation. – Steve McConnell...
+  6. Selected 7 times (appears 1x in list)
+     Sometimes it pays to stay in bed on Monday, rather than spending the r...
+  7. Selected 6 times (appears 1x in list)
+     The trouble with programmers is that you can never tell what a program...
+  8. Selected 6 times (appears 1x in list)
+     It's not a bug – it's an undocumented feature. – Anonymous...
+  9. Selected 5 times (appears 1x in list)
+     Every great developer you know got there by solving problems they were...
+  10. Selected 4 times (appears 1x in list)
+     The most important property of a program is whether it accomplishes th...
+
+================================================================================
+Conclusion:
+================================================================================
+The update_quote.py script uses random.choice() which CAN select from
+ALL quotes in the list. However, quotes that appear more frequently
+in the list have a higher probability of being selected.
+
+With 1023 total quotes and 54 unique quotes,
+each quote's selection probability is proportional to how many times
+it appears in the list.
+================================================================================
