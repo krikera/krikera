@@ -1005,7 +1005,7 @@ quotes = [
     "It's not a bug – it's an undocumented feature. – Anonymous",
     "Without requirements or design, programming is the art of adding bugs to an empty text file. – Louis Srygley",
     "Code never lies, comments sometimes do. – Ron Jeffries",
-    "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away. – Antoine de Saint-Exupery",
+    "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away. – Antoine de Saint-Exupéry",
     "The best thing about a boolean is even if you are wrong, you are only off by a bit. – Anonymous",
     "Software is a great combination between artistry and engineering. – Bill Gates",
     "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it. – Patrick McKenzie",
