@@ -1,6 +1,11 @@
 # Local configuration files
 .qodo
 
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
 # Dependencies
 node_modules/
 package-lock.json
