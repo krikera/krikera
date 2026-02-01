@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Simplicity is the ultimate sophistication. – Leonardo da Vinci"
+"A language that doesn’t affect the way you think about programming is not worth knowing. – Alan Perlis"
 <!--QUOTE_END-->
 
