@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"One man’s crappy software is another man’s full-time job. – Jessica Gaston"
+"Before software can be reusable it first has to be usable. – Ralph Johnson"
 <!--QUOTE_END-->
 
