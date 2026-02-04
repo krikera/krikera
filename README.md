@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Before software can be reusable it first has to be usable. – Ralph Johnson"
+"First, solve the problem. Then, write the code. – John Johnson"
 <!--QUOTE_END-->
 
