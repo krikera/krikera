@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Optimism is an occupational hazard of programming: feedback is the treatment. – Kent Beck"
+"The computer was born to solve problems that did not exist before. – Bill Gates"
 <!--QUOTE_END-->
 
