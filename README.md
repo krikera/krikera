@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"A good programmer is someone who looks both ways before crossing a one-way street. – Doug Linder"
+"Simplicity is the soul of efficiency. – Austin Freeman"
 <!--QUOTE_END-->
 
