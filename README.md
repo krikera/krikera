@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson"
+"In order to be irreplaceable, one must always be different. – Coco Chanel"
 <!--QUOTE_END-->
 
