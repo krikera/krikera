@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"In order to be irreplaceable, one must always be different. – Coco Chanel"
+"Simplicity is the ultimate sophistication. – Leonardo da Vinci"
 <!--QUOTE_END-->
 
