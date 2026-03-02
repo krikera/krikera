@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Code is like humor. When you have to explain it, it’s bad. – Cory House"
+"The bearing of a child takes nine months, no matter how many women are assigned. – Frederick P. Brooks Jr."
 <!--QUOTE_END-->
 
