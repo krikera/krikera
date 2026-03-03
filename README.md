@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"The bearing of a child takes nine months, no matter how many women are assigned. – Frederick P. Brooks Jr."
+"Deleted code is debugged code. – Jeff Sickel"
 <!--QUOTE_END-->
 
