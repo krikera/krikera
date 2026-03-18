@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler"
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates"
 <!--QUOTE_END-->
 
