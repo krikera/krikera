@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"The computer was born to solve problems that did not exist before. – Bill Gates"
+"One man’s crappy software is another man’s full-time job. – Jessica Gaston"
 <!--QUOTE_END-->
 
