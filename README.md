@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"A good programmer is someone who looks both ways before crossing a one-way street. – Doug Linder"
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler"
 <!--QUOTE_END-->
 
