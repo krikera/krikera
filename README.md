@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Walking on water and developing software from a specification are easy if both are frozen. – Edward V. Berard"
+"Before software can be reusable it first has to be usable. – Ralph Johnson"
 <!--QUOTE_END-->
 
