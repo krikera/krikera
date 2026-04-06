@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler"
+"Deleted code is debugged code. – Jeff Sickel"
 <!--QUOTE_END-->
 
