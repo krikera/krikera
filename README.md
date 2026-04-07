@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Deleted code is debugged code. – Jeff Sickel"
+"Low-level programming is good for the programmer's soul. – John Carmack"
 <!--QUOTE_END-->
 
