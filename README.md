@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Low-level programming is good for the programmer's soul. – John Carmack"
+"Programming can be fun, and so can cryptography; however, they should not be combined. – Kreitzberg & Shneiderman"
 <!--QUOTE_END-->
 
