@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Experience is the name everyone gives to their mistakes. – Oscar Wilde"
+"Make it work, make it right, make it fast. – Kent Beck"
 <!--QUOTE_END-->
 
