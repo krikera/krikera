@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Make it work, make it right, make it fast. – Kent Beck"
+"The computer was born to solve problems that did not exist before. – Bill Gates"
 <!--QUOTE_END-->
 
