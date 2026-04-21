@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Deleted code is debugged code. – Jeff Sickel"
+"Simplicity is the ultimate sophistication. – Leonardo da Vinci"
 <!--QUOTE_END-->
 
