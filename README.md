@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Before software can be reusable it first has to be usable. – Ralph Johnson"
+"The computer was born to solve problems that did not exist before. – Bill Gates"
 <!--QUOTE_END-->
 
