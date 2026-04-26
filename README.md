@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"The computer was born to solve problems that did not exist before. – Bill Gates"
+"Fix the cause, not the symptom. – Steve Maguire"
 <!--QUOTE_END-->
 
