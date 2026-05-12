@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates"
+"Programming isn’t about what you know; it’s about what you can figure out. – Chris Pine"
 <!--QUOTE_END-->
 
