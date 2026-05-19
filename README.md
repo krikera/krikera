@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Code is like humor. When you have to explain it, it’s bad. – Cory House"
+"Deleted code is debugged code. – Jeff Sickel"
 <!--QUOTE_END-->
 
