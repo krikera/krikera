@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Deleted code is debugged code. – Jeff Sickel"
+"You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity. – John Romero"
 <!--QUOTE_END-->
 
