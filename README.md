@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Programming isn’t about what you know; it’s about what you can figure out. – Chris Pine"
+"Talk is cheap. Show me the code. – Linus Torvalds"
 <!--QUOTE_END-->
 
