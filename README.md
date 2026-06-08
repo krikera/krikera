@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Code is like humor. When you have to explain it, it’s bad. – Cory House"
+"Experience is the name everyone gives to their mistakes. – Oscar Wilde"
 <!--QUOTE_END-->
 
