@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Experience is the name everyone gives to their mistakes. – Oscar Wilde"
+"Before software can be reusable it first has to be usable. – Ralph Johnson"
 <!--QUOTE_END-->
 
