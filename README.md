@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"The most disastrous thing that you can ever learn is your first programming language. – Alan Kay"
+"A language that doesn’t affect the way you think about programming is not worth knowing. – Alan Perlis"
 <!--QUOTE_END-->
 
