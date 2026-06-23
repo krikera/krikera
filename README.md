@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson"
+"Make it work, make it right, make it fast. – Kent Beck"
 <!--QUOTE_END-->
 
