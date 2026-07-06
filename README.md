@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Make it work, make it right, make it fast. – Kent Beck"
+"There are two ways to write error-free programs; only the third one works. – Alan J. Perlis"
 <!--QUOTE_END-->
 
