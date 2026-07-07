@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"There are two ways to write error-free programs; only the third one works. – Alan J. Perlis"
+"A language that doesn’t affect the way you think about programming is not worth knowing. – Alan Perlis"
 <!--QUOTE_END-->
 
