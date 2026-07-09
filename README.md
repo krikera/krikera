@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"A good programmer is someone who looks both ways before crossing a one-way street. – Doug Linder"
+"Programming is the art of algorithm design and the craft of debugging errant code. – Ellen Ullman"
 <!--QUOTE_END-->
 
