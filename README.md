@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Walking on water and developing software from a specification are easy if both are frozen. – Edward V. Berard"
+"Code is like humor. When you have to explain it, it’s bad. – Cory House"
 <!--QUOTE_END-->
 
