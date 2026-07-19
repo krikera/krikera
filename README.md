@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Software is a great combination between artistry and engineering. – Bill Gates"
+"Fix the cause, not the symptom. – Steve Maguire"
 <!--QUOTE_END-->
 
