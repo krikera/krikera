@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"The computer was born to solve problems that did not exist before. – Bill Gates"
+"Walking on water and developing software from a specification are easy if both are frozen. – Edward V. Berard"
 <!--QUOTE_END-->
 
