@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Walking on water and developing software from a specification are easy if both are frozen. – Edward V. Berard"
+"Simplicity is the ultimate sophistication. – Leonardo da Vinci"
 <!--QUOTE_END-->
 
