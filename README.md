@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"A language that doesn’t affect the way you think about programming is not worth knowing. – Alan Perlis"
+"Make it work, make it right, make it fast. – Kent Beck"
 <!--QUOTE_END-->
 
