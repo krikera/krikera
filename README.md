@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Talk is cheap. Show me the code. – Linus Torvalds"
+"Programming can be fun, and so can cryptography; however, they should not be combined. – Kreitzberg & Shneiderman"
 <!--QUOTE_END-->
 
