@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Simplicity is the soul of efficiency. – Austin Freeman"
+"Deleted code is debugged code. – Jeff Sickel"
 <!--QUOTE_END-->
 
