@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"A good programmer is someone who looks both ways before crossing a one-way street. – Doug Linder"
+"Simplicity is the ultimate sophistication. – Leonardo da Vinci"
 <!--QUOTE_END-->
 
