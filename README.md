@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Simplicity is the ultimate sophistication. – Leonardo da Vinci"
+"Fix the cause, not the symptom. – Steve Maguire"
 <!--QUOTE_END-->
 
