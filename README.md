@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson"
+"Before software can be reusable it first has to be usable. – Ralph Johnson"
 <!--QUOTE_END-->
 
