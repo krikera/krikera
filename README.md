@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Programming is the art of algorithm design and the craft of debugging errant code. – Ellen Ullman"
+"Deleted code is debugged code. – Jeff Sickel"
 <!--QUOTE_END-->
 
