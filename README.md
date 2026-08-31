@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Code is like humor. When you have to explain it, it’s bad. – Cory House"
+"One man’s crappy software is another man’s full-time job. – Jessica Gaston"
 <!--QUOTE_END-->
 
