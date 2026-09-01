@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"One man’s crappy software is another man’s full-time job. – Jessica Gaston"
+"Code is like a love letter: it’s better when it’s elegant. – Unknown"
 <!--QUOTE_END-->
 
