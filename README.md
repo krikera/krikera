@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Code is like a love letter: it’s better when it’s elegant. – Unknown"
+"Make it work, make it right, make it fast. – Kent Beck"
 <!--QUOTE_END-->
 
