@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"One man’s crappy software is another man’s full-time job. – Jessica Gaston"
+"Deleted code is debugged code. – Jeff Sickel"
 <!--QUOTE_END-->
 
