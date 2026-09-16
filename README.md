@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Deleted code is debugged code. – Jeff Sickel"
+"Walking on water and developing software from a specification are easy if both are frozen. – Edward V. Berard"
 <!--QUOTE_END-->
 
