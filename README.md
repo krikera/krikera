@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Before software can be reusable it first has to be usable. – Ralph Johnson"
+"Programming is the art of algorithm design and the craft of debugging errant code. – Ellen Ullman"
 <!--QUOTE_END-->
 
