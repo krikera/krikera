@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Programming is the art of algorithm design and the craft of debugging errant code. – Ellen Ullman"
+"Talk is cheap. Show me the code. – Linus Torvalds"
 <!--QUOTE_END-->
 
