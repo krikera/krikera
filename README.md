@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"A good programmer is someone who looks both ways before crossing a one-way street. – Doug Linder"
+"First, solve the problem. Then, write the code. – John Johnson"
 <!--QUOTE_END-->
 
