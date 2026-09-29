@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Programming can be fun, and so can cryptography; however, they should not be combined. – Kreitzberg & Shneiderman"
+"The function of good software is to make the complex appear to be simple. – Grady Booch"
 <!--QUOTE_END-->
 
