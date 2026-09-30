@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"The function of good software is to make the complex appear to be simple. – Grady Booch"
+"Simplicity is the ultimate sophistication. – Leonardo da Vinci"
 <!--QUOTE_END-->
 
