@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"There are two ways to write error-free programs; only the third one works. – Alan J. Perlis"
+"Code is like humor. When you have to explain it, it’s bad. – Cory House"
 <!--QUOTE_END-->
 
