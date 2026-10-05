@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Code is like humor. When you have to explain it, it’s bad. – Cory House"
+"Real programmers don’t write specs. Users should consider themselves lucky to get any documentation at all. – Tom Van Vleck"
 <!--QUOTE_END-->
 
