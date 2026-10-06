@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Real programmers don’t write specs. Users should consider themselves lucky to get any documentation at all. – Tom Van Vleck"
+"Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson"
 <!--QUOTE_END-->
 
