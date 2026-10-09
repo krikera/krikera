@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"A good programmer is someone who looks both ways before crossing a one-way street. – Doug Linder"
+"Make it work, make it right, make it fast. – Kent Beck"
 <!--QUOTE_END-->
 
