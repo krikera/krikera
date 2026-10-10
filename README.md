@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Make it work, make it right, make it fast. – Kent Beck"
+"Programming can be fun, and so can cryptography; however, they should not be combined. – Kreitzberg & Shneiderman"
 <!--QUOTE_END-->
 
