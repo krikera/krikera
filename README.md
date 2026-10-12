@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"First, solve the problem. Then, write the code. – John Johnson"
+"A language that doesn’t affect the way you think about programming is not worth knowing. – Alan Perlis"
 <!--QUOTE_END-->
 
