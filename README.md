@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler"
+"Talk is cheap. Show me the code. – Linus Torvalds"
 <!--QUOTE_END-->
 
