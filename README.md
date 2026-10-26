@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson"
+"Code is like humor. When you have to explain it, it’s bad. – Cory House"
 <!--QUOTE_END-->
 
