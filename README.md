@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"The function of good software is to make the complex appear to be simple. – Grady Booch"
+"Walking on water and developing software from a specification are easy if both are frozen. – Edward V. Berard"
 <!--QUOTE_END-->
 
