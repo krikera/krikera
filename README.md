@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Real programmers don’t write specs. Users should consider themselves lucky to get any documentation at all. – Tom Van Vleck"
+"Experience is the name everyone gives to their mistakes. – Oscar Wilde"
 <!--QUOTE_END-->
 
