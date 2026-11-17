@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Before software can be reusable it first has to be usable. – Ralph Johnson"
+"Talk is cheap. Show me the code. – Linus Torvalds"
 <!--QUOTE_END-->
 
