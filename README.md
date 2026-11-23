@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Simplicity is the ultimate sophistication. – Leonardo da Vinci"
+"Programming can be fun, and so can cryptography; however, they should not be combined. – Kreitzberg & Shneiderman"
 <!--QUOTE_END-->
 
