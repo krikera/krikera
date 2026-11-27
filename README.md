@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Deleted code is debugged code. – Jeff Sickel"
+"Make it work, make it right, make it fast. – Kent Beck"
 <!--QUOTE_END-->
 
