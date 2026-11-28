@@ -1,4 +1,4 @@
 <!--QUOTE_START-->
-"Make it work, make it right, make it fast. – Kent Beck"
+"Debugging becomes significantly easier if you first admit that you are the problem. – William Laeder"
 <!--QUOTE_END-->
 
